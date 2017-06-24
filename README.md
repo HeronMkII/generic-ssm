@@ -14,7 +14,7 @@ $ brew install rename
 In the root directory, run
 
 ```
-$ rename -vs generic YOUR_SUBSYSTEM_NAME
+$ ls . | rename -vs generic YOUR_SUBSYSTEM_NAME
 ```
 
 For example, `rename -vs generic coms` creates files
