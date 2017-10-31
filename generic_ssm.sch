@@ -191,9 +191,9 @@ F 3 "" H 9700 5450 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 Text Label 1700 5500 2    60   ~ 0
-RX_CAN
-Text Label 1700 5600 2    60   ~ 0
 TX_CAN
+Text Label 1700 5600 2    60   ~ 0
+RX_CAN
 $Comp
 L C_Small C4
 U 1 1 594ED5EA
